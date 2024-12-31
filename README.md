@@ -22,3 +22,5 @@ This project allows me to:
 
 #### Getting Started
 Stay tuned for setup instructions, examples, and documentation to help you get started with Hōkū.
+
+> ⚠️ this project is waiting on [Luau-OpenGL](https://github.com/4x8Matrix/Luau-OpenGL)
